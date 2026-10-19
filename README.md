@@ -10,7 +10,6 @@
 
 <br/>
 
-(https://kartikworks.co.in/)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Engineering-4C1D95?style=for-the-badge&logo=google-cloud&logoColor=white)](https://kartikworks.co.in/)
 [![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Nagpur,+India)
 
